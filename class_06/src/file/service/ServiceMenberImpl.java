@@ -49,7 +49,3 @@ public class ServiceMenberImpl implements ServiceMember{
 		}
 	}
 }
-
-
-
-
